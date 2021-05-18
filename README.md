@@ -38,3 +38,22 @@ SATOSHI=2100000000000000
 BTC=BITCOIN
 SAT=.00000001
 
+to create a wallet in decenterland.crypto you need
+BANKON
+https://algoexplorer.io/asset/203977300
+total.BANKON=10000000
+
+holding BANKON creates SPINTRADE
+
+SPINTRADE
+https://algoexplorer.io/asset/205332172
+
+holding SPINTRADE creates LOGIN
+
+LOGIN
+total.LOGIN=9999999999999.99
+
+where login=.01
+
+
+
