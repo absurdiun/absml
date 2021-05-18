@@ -12,7 +12,7 @@ ABRSML==1 while ABSRML=ABRSML
 ABRSML=0+-1/infinity+-1
 # where ABRSML total supply is equivalent to the entire electrical field inside decenterland.crypto which is inside the Ethereum Virtal Machine or EVM environment
 ABSRDML=ABSRDML.ABSRDML
-ABSRDML==ABSRDML
+while ABSRDML != 0
 
 SATOSHI NAKAMOTO
 total.supply=2,100,000,000,000,000
