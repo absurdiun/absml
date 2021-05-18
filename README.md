@@ -10,7 +10,7 @@ https://algoexplorer.io/asset/204083065
 
 ABRSML==1 while ABSRML=ABRSML
 ABRSML=0+-1/infinity+-1
-#where 1 ABRSML is equivalent to the size of the entire universe - the size of 1 ABRSML
+# where ABRSML total supply is equivalent to the entire electrical field inside decenterland.crypto
 ABSRDML=ABSRDML.ABSRDML
 ABSRDML==ABSRDML
 
@@ -30,3 +30,11 @@ where 999999999999=total.ABSRDML
 total.ABSRDML=decenterland.crypto
 hence
 decenterland.crypto=total.ABSRDML
+
+SATOSHI
+https://algoexplorer.io/asset/205323480
+SATOSHI=2100000000000000
+1 SATOSHI=.0000000 1BTC
+BTC=BITCOIN
+SAT=.00000001
+
